@@ -1,8 +1,9 @@
 select {
+  /* Xoá mặc định */
   appearance: none;
   -webkit-appearance: none;
   -moz-appearance: none;
-
+  
   padding: 10px 40px 10px 10px; 
   width: 200px;
 }
